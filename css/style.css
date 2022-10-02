@@ -1,0 +1,78 @@
+
+#boton {
+
+    background-color: #6ac421!important;
+    border: none;
+}
+#label{
+    font-size: 11px !important;
+     
+    color: rgb(128, 129, 127);
+}
+
+.honolulu{
+    display: inline-flex !important;
+    float: inline-start;
+}
+
+.textohon{
+    display: inline-end;
+    float: inline-end;    
+    text-align: left;
+    padding-left: 20px !important;
+    padding-top: 20px !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px !important;
+    
+}
+
+.btn-outline-light{
+    font-size: 12px !important;
+}
+
+.navbar{
+    padding-left: 3% !important;
+    padding-right: 3% !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+.navbar-nav {
+    display:inline-flex !important;
+    font-size: 12px !important;
+}
+
+#comprar {
+    color: #6ac421;
+}
+
+.navbar-brand {
+ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px !important;
+
+}
+
+#carrusel{
+
+    filter: drop-shadow(10%) !important;
+    filter: brightness(40%) ;
+
+}
+
+
+#bg{
+    background-color: rgb(39, 39, 39) !important;
+    opacity: 90% !important;
+}
+
+#footer{
+    padding-left: 20% !important;
+    padding-right: 20% !important;
+    text-align: center !important;
+    justify-content: space-around !important;
+    display: inline-flex !important;
+    font-size: 14px !important;
+    background-color: rgb(39, 39, 39) !important;
+    opacity: 90% !important;
+}
